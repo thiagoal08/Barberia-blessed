@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Barbería Blessed</title>
+  <style>
+    body {
+      background-color: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    .boton {
+      display: inline-block;
+      background-color: #25d366;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    img {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Barbería Blessed</h1>
+  <p>Abierto de lunes a sábado, 8 a 20 h.</p>
+  <a class="boton" href="https://wa.me/3547531548">Reservar por WhatsApp</a>
+</body>
+</html>
